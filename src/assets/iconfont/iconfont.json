@@ -1,0 +1,93 @@
+{
+  "id": "1713199",
+  "name": "maoyan",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2681721",
+      "name": "余额",
+      "font_class": "yue",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "3826022",
+      "name": "电影",
+      "font_class": "dianying1",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "5657519",
+      "name": "红包",
+      "font_class": "hongbao",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "9148956",
+      "name": "箭头",
+      "font_class": "weimingmingwenjianjia_jiantou",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "12184907",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "12240050",
+      "name": "电影票",
+      "font_class": "dianyingpiao",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "3852291",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "9478559",
+      "name": "订单",
+      "font_class": "dingdan1",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "11872995",
+      "name": "登录",
+      "font_class": "denglu",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1841664",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "11372734",
+      "name": "影院",
+      "font_class": "yingyuan",
+      "unicode": "e8c0",
+      "unicode_decimal": 59584
+    },
+    {
+      "icon_id": "13332467",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
